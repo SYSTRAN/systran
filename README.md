@@ -55,3 +55,14 @@ Client libraries in different languages are available.
 - [Resource Management](https://github.com/SYSTRAN/resources-api-csharp-client)
 - [Multimodal Text Extraction](https://github.com/SYSTRAN/multimodal-api-csharp-client)
 - [Geographic](https://github.com/SYSTRAN/geographic-api-csharp-client)
+
+## Plugins and Connectors
+
+### Slack
+
+- [SYSTRAN Translation Bot for Slack](https://github.com/SYSTRAN/systran-slack-bot)
+- [SYSTRAN Translation & Dictionary Commands for Slack](https://github.com/SYSTRAN/systran-slack-commands)
+
+### HipChat
+
+- [SYSTRAN Translation & Dictionary Commands for HipChat](https://github.com/SYSTRAN/systran-hipchat-commands)
