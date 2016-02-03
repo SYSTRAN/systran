@@ -12,11 +12,11 @@ Client libraries in different languages are available.
 
 #### Java
 
-[](https://github.com/SYSTRAN/translation-api-java-client)
-[](https://github.com/SYSTRAN/nlp-api-java-client)
-[](https://github.com/SYSTRAN/resources-api-java-client)
-[](https://github.com/SYSTRAN/multimodal-api-java-client)
-[](https://github.com/SYSTRAN/geographic-api-java-client)
+- [Translation](https://github.com/SYSTRAN/translation-api-java-client)
+- [Natural Language Processing](https://github.com/SYSTRAN/nlp-api-java-client)
+- [Resource Management](https://github.com/SYSTRAN/resources-api-java-client)
+- [Multimodal Text Extraction](https://github.com/SYSTRAN/multimodal-api-java-client)
+- [Geographic](https://github.com/SYSTRAN/geographic-api-java-client)
 
 #### Python
 
