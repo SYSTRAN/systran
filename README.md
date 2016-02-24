@@ -10,6 +10,14 @@
 
 Client libraries in different languages are available.
 
+#### Node.js
+
+- [Translation](https://github.com/SYSTRAN/translation-api-nodejs-client)
+- [Natural Language Processing](https://github.com/SYSTRAN/nlp-api-nodejs-client)
+- [Resource Management](https://github.com/SYSTRAN/resources-api-nodejs-client)
+- [Multimodal Text Extraction](https://github.com/SYSTRAN/multimodal-api-nodejs-client)
+- [Geographic](https://github.com/SYSTRAN/geographic-api-nodejs-client)
+
 #### Java
 
 - [Translation](https://github.com/SYSTRAN/translation-api-java-client)
