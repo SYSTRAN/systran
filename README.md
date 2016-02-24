@@ -48,6 +48,7 @@ Client libraries in different languages are available.
 - [Natural Language Processing](https://github.com/SYSTRAN/nlp-api-php-client)
 - [Resource Management](https://github.com/SYSTRAN/resources-api-php-client)
 - [Multimodal Text Extraction](https://github.com/SYSTRAN/multimodal-api-php-client)
+- [Geographic](https://github.com/SYSTRAN/geographic-api-php-client)
 
 #### Objective C
 
