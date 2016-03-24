@@ -75,3 +75,7 @@ Client libraries in different languages are available.
 ### HipChat
 
 - [SYSTRAN Translation & Dictionary Commands for HipChat](https://github.com/SYSTRAN/systran-hipchat-commands)
+
+### Microsoft Multilingual App Toolkit
+
+- [Multilingual App Toolkit SYSTRAN translation provider](https://github.com/SYSTRAN/systran-multilingual-app-toolkit-provider)
